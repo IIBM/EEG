@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ADS1299-test_circuit-rescue") (type "Legacy") (uri "${KIPRJMOD}/ADS1299-test_circuit-rescue.lib") (options "") (descr ""))
+	(lib (name "ADS1299") (type "Legacy") (uri "${KIPRJMOD}/ADS1299.lib") (options "") (descr ""))
+	(lib (name "REF5025") (type "Legacy") (uri "${KIPRJMOD}/REF5025.lib") (options "") (descr ""))
+	(lib (name "REF5030") (type "Legacy") (uri "${KIPRJMOD}/REF5030.lib") (options "") (descr ""))
+	(lib (name "OPA735") (type "Legacy") (uri "${KIPRJMOD}/OPA735.lib") (options "") (descr ""))
+)
